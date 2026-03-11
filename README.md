@@ -68,33 +68,22 @@ git clone https://github.com/yourusername/financial-forecasting-ai.git
 ```
 
 ---
+## 🔮 Future Improvements
 
-#🔮 Future Improvements
-
--Integration with real-time stock APIs
-
--Walk-forward validation for financial time-series
-
--Advanced deep learning models (LSTM / Transformer)
-
--Trading strategy simulation
-
--Explainable AI (SHAP feature importance)
+- Integration with real-time stock APIs
+- Walk-forward validation for financial time-series
+- Advanced deep learning models (LSTM / Transformer)
+- Trading strategy simulation
+- Explainable AI using SHAP for feature importance
 
 ---
 
-#📚 Learning Outcomes
+## 📚 Learning Outcomes
 
-This project demonstrates:
+This project demonstrates the application of several machine learning and financial analytics concepts, including:
 
-  -Neural networks for time-series forecasting
-
-  -Evolutionary optimization using Genetic Algorithms
-
-  -Financial technical indicator feature engineering
-
-  -Interactive ML dashboards
-
-  -Model evaluation and comparison
-
----
+- Neural networks for time-series forecasting
+- Evolutionary optimization using Genetic Algorithms
+- Financial technical indicator feature engineering
+- Development of interactive machine learning dashboards using Streamlit
+- Model evaluation and performance comparison across multiple algorithms
