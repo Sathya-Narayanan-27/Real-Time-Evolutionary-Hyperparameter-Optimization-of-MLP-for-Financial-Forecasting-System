@@ -68,6 +68,28 @@ git clone https://github.com/Sathya-Narayanan-27/Real-Time-Evolutionary-Hyperpar
 ```
 
 ---
+## 📦 Requirements
+
+The project requires the following Python libraries:
+
+- streamlit
+- pandas
+- numpy
+- scikit-learn
+- tensorflow
+- plotly
+- pygad
+- ta
+
+You can install all dependencies using the `requirements.txt` file.
+
+### Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+---
+
 ## 🔮 Future Improvements
 
 - Integration with real-time stock APIs
