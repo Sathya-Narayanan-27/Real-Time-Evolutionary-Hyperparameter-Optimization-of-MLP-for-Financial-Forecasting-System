@@ -64,7 +64,7 @@ The platform integrates **data preprocessing, feature engineering, neural networ
 Clone the repository:
 
 ```bash
-[git clone https://github.com/yourusername/financial-forecasting-ai.git](https://github.com/Sathya-Narayanan-27/Real-Time-Evolutionary-Hyperparameter-Optimization-of-MLP-for-Financial-Forecasting-System.git)
+git clone https://github.com/Sathya-Narayanan-27/Real-Time-Evolutionary-Hyperparameter-Optimization-of-MLP-for-Financial-Forecasting-System.git
 ```
 
 ---
