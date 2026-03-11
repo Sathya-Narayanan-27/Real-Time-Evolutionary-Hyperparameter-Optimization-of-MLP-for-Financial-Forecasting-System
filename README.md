@@ -65,5 +65,31 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/financial-forecasting-ai.git
+```
 
+---
+#🔮 Future Improvements
 
+-Integration with real-time stock APIs
+
+-Walk-forward validation for financial time-series
+
+-Advanced deep learning models (LSTM / Transformer)
+
+-Trading strategy simulation
+
+-Explainable AI (SHAP feature importance)
+
+#📚 Learning Outcomes
+
+This project demonstrates:
+
+  -Neural networks for time-series forecasting
+
+  -Evolutionary optimization using Genetic Algorithms
+
+  -Financial technical indicator feature engineering
+
+  -Interactive ML dashboards
+
+  -Model evaluation and comparison
