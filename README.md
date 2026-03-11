@@ -68,6 +68,7 @@ git clone https://github.com/yourusername/financial-forecasting-ai.git
 ```
 
 ---
+
 #🔮 Future Improvements
 
 -Integration with real-time stock APIs
@@ -79,6 +80,8 @@ git clone https://github.com/yourusername/financial-forecasting-ai.git
 -Trading strategy simulation
 
 -Explainable AI (SHAP feature importance)
+
+---
 
 #📚 Learning Outcomes
 
@@ -93,3 +96,5 @@ This project demonstrates:
   -Interactive ML dashboards
 
   -Model evaluation and comparison
+
+---
